@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mg1Pj49fX4fD2ytyal4+xRQQA38G8Egi4KhQx0iZfFseS6SgkR3zWpJKvPcPvvrIWMzqGh6jRde8QVPl4OpVYQ==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\keylo\\source\\repos\\converter_\\converter_\\converter_.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\keylo\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

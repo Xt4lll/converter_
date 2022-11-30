@@ -1,0 +1,17 @@
+D:\Users\keylo\source\repos\converter_\converter_\bin\Debug\net6.0\converter_.exe
+D:\Users\keylo\source\repos\converter_\converter_\bin\Debug\net6.0\converter_.deps.json
+D:\Users\keylo\source\repos\converter_\converter_\bin\Debug\net6.0\converter_.runtimeconfig.json
+D:\Users\keylo\source\repos\converter_\converter_\bin\Debug\net6.0\converter_.dll
+D:\Users\keylo\source\repos\converter_\converter_\bin\Debug\net6.0\converter_.pdb
+D:\Users\keylo\source\repos\converter_\converter_\obj\Debug\net6.0\converter_.csproj.AssemblyReference.cache
+D:\Users\keylo\source\repos\converter_\converter_\obj\Debug\net6.0\converter_.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\keylo\source\repos\converter_\converter_\obj\Debug\net6.0\converter_.AssemblyInfoInputs.cache
+D:\Users\keylo\source\repos\converter_\converter_\obj\Debug\net6.0\converter_.AssemblyInfo.cs
+D:\Users\keylo\source\repos\converter_\converter_\obj\Debug\net6.0\converter_.csproj.CoreCompileInputs.cache
+D:\Users\keylo\source\repos\converter_\converter_\obj\Debug\net6.0\converter_.dll
+D:\Users\keylo\source\repos\converter_\converter_\obj\Debug\net6.0\refint\converter_.dll
+D:\Users\keylo\source\repos\converter_\converter_\obj\Debug\net6.0\converter_.pdb
+D:\Users\keylo\source\repos\converter_\converter_\obj\Debug\net6.0\converter_.genruntimeconfig.cache
+D:\Users\keylo\source\repos\converter_\converter_\obj\Debug\net6.0\ref\converter_.dll
+D:\Users\keylo\source\repos\converter_\converter_\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Users\keylo\source\repos\converter_\converter_\obj\Debug\net6.0\converter_.csproj.CopyComplete
